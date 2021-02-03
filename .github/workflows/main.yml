@@ -1,0 +1,37 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */3 * * *'
+  repository_dispatch:
+    types: [deploy-github-readme]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Get recent blog posts from hashnode
+        id: hashnode-recent-blog-posts
+        uses: imbhargav5/hashnode-user-with-posts-json@master
+        with:
+          username: "woodRock"         
+      - name: Generate README file
+        run: node action.js
+        env:
+          HASHNODE_PROFILE: ${{steps.hashnode-recent-blog-posts.outputs.data}}  
