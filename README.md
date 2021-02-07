@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Secret Cipher](https://woodrock.hashnode.dev/secret-cipher-ckktowkdx0emciis1ez82bpn0)
+- [Repeated String](https://woodrock.hashnode.dev/repeated-string-ckkqogmz5006kjjs1dhhm5z1x)
+- [Transfiguration](https://woodrock.hashnode.dev/transfiguration-ckkpg114f095o1es1ezd837nd)
+- [Dam of Candies](https://woodrock.hashnode.dev/dam-of-candies-ckknvc6qk01wn0ds1586aeb25)
+- [Valid Pair Sum](https://woodrock.hashnode.dev/valid-pair-sum-ckkmaw65803j2bds1337p39m2)
+- [Gamify Exercise with PostgeSQL](https://woodrock.hashnode.dev/gamify-exercise-with-postgesql-ckkjha8q306yk8bs17v9jhee2)
 <!-- HASHNODE_BLOG:END -->
