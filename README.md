@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Ruling Pair](https://woodrock.hashnode.dev/ruling-pair-ckkwh2kgm0021xps1hhxv1dfd)
 - [Secret Cipher](https://woodrock.hashnode.dev/secret-cipher-ckktowkdx0emciis1ez82bpn0)
 - [Repeated String](https://woodrock.hashnode.dev/repeated-string-ckkqogmz5006kjjs1dhhm5z1x)
 - [Transfiguration](https://woodrock.hashnode.dev/transfiguration-ckkpg114f095o1es1ezd837nd)
