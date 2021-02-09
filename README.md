@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Cloudy with a Chance of Git Pulls](https://woodrock.hashnode.dev/cloudy-with-a-chance-of-git-pulls-ckkxtgev208bixps160lja4ok)
 - [Ruling Pair](https://woodrock.hashnode.dev/ruling-pair-ckkwh2kgm0021xps1hhxv1dfd)
 - [Secret Cipher](https://woodrock.hashnode.dev/secret-cipher-ckktowkdx0emciis1ez82bpn0)
 - [Repeated String](https://woodrock.hashnode.dev/repeated-string-ckkqogmz5006kjjs1dhhm5z1x)
