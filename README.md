@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My goal is to leave the world a better place than I found it. I plan to bring that goal into reality by creating technology which improves the quality of life. These goals have motivated my passion for software engineering and the open-source community as a tool for sharing knowledge. This objective has led me to a voluntary internship at NIWA, collaborating with scientists and physicists to publish their research on our oceans and atmosphere to a global audience. Software is a medium to explore my scientific curiosity and contribute a meaningful change.
+
 <!--
 **woodRock/woodRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +28,11 @@ Here are some ideas to get you started:
 - [Valid Pair Sum](https://woodrock.hashnode.dev/valid-pair-sum-ckkmaw65803j2bds1337p39m2)
 - [Gamify Exercise with PostgeSQL](https://woodrock.hashnode.dev/gamify-exercise-with-postgesql-ckkjha8q306yk8bs17v9jhee2)
 <!-- HASHNODE_BLOG:END -->
+
+## Socials 
+
+- [Twitter](https://twitter.com/jrhwood)
+- [LinkedIn](https://www.linkedin.com/in/jrhwood/)
 
 ## Support
 
