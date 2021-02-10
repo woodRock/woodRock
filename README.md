@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **woodRock/woodRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Buy me a coffee [☕](https://www.buymeacoffee.com/woodrock)
-
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [Cloudy with a Chance of Git Pulls](https://woodrock.hashnode.dev/cloudy-with-a-chance-of-git-pulls-ckkxtgev208bixps160lja4ok)
@@ -28,3 +26,8 @@ Buy me a coffee [☕](https://www.buymeacoffee.com/woodrock)
 - [Valid Pair Sum](https://woodrock.hashnode.dev/valid-pair-sum-ckkmaw65803j2bds1337p39m2)
 - [Gamify Exercise with PostgeSQL](https://woodrock.hashnode.dev/gamify-exercise-with-postgesql-ckkjha8q306yk8bs17v9jhee2)
 <!-- HASHNODE_BLOG:END -->
+
+## Support
+
+- [Buy](https://www.buymeacoffee.com/woodrock) me a coffee ☕
+- $ETH --> 0x045BA9c0c69AF53B2Fca0e1A3769E44D9a328696
