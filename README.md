@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [132 Geeky Buildings](https://woodrock.hashnode.dev/132-geeky-buildings-ckl27r9qw002hfzs1d3u2291l)
 - [Restrictive Candy Crush](https://woodrock.hashnode.dev/restrictive-candy-crush-ckl01th5706msl1s1875jbtt9)
 - [Cloudy with a Chance of Git Pulls](https://woodrock.hashnode.dev/cloudy-with-a-chance-of-git-pulls-ckkxtgev208bixps160lja4ok)
 - [Ruling Pair](https://woodrock.hashnode.dev/ruling-pair-ckkwh2kgm0021xps1hhxv1dfd)
