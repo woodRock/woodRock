@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 - [Gamify Exercise with PostgeSQL](https://woodrock.hashnode.dev/gamify-exercise-with-postgesql-ckkjha8q306yk8bs17v9jhee2)
 <!-- HASHNODE_BLOG:END -->
 
+# Demos
+
+- [Bug Tracker](https://bugs.woodrock.tk)
+- [Portfolio CMS](https://dev.woodrock.tk)
+
 ## Socials 
 
 - [Twitter](https://twitter.com/jrhwood)
