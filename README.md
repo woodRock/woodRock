@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 # Demos
 
+- [Academic Scholar](https://scholar.woodrock.tk)
 - [Bug Tracker](https://bugs.woodrock.tk)
 - [Portfolio CMS](https://dev.woodrock.tk)
 
