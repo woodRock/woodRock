@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 # Demos
 
-- [Academic Scholar](https://scholar.woodrock.tk)
-- [Bug Tracker](https://bugs.woodrock.tk)
-- [Portfolio CMS](https://dev.woodrock.tk)
+- [Academic Scholar](https://app.netlify.com/sites/academic-scholar)
+- [Bug Tracker](https://app.netlify.com/sites/bugs-tracker)
+- [Portfolio CMS](https://app.netlify.com/sites/woodrock-dev)
 
 ## Socials 
 
