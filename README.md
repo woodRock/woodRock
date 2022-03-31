@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Socials 
+- Shiny things to [click](http://linktr.ee/jrhwood)
+
+# Demos
+- [Portfolio](https://woodrock.github.io/)
+- [Academic Scholar](https://academic-scholar.netlify.app/)
+- [Bug Tracker](https://bugs-tracker.netlify.app/)
+- [Portfolio CMS](https://woodrock-dev.netlify.app/)
+
+## Support
+- [Buy](https://www.buymeacoffee.com/woodrock) me a coffee ☕
+- $ETH --> 0x045BA9c0c69AF53B2Fca0e1A3769E44D9a328696
+
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [132 Geeky Buildings](https://woodrock.hashnode.dev/132-geeky-buildings-ckl27r9qw002hfzs1d3u2291l)
@@ -30,19 +43,3 @@ Here are some ideas to get you started:
 - [Valid Pair Sum](https://woodrock.hashnode.dev/valid-pair-sum-ckkmaw65803j2bds1337p39m2)
 - [Gamify Exercise with PostgeSQL](https://woodrock.hashnode.dev/gamify-exercise-with-postgesql-ckkjha8q306yk8bs17v9jhee2)
 <!-- HASHNODE_BLOG:END -->
-
-# Demos
-
-- [Portfolio](https://woodrock.github.io/)
-- [Academic Scholar](https://academic-scholar.netlify.app/)
-- [Bug Tracker](https://bugs-tracker.netlify.app/)
-- [Portfolio CMS](https://woodrock-dev.netlify.app/)
-
-## Socials 
-
-- Shiny things to [click](http://linktr.ee/jrhwood)
-
-## Support
-
-- [Buy](https://www.buymeacoffee.com/woodrock) me a coffee ☕
-- $ETH --> 0x045BA9c0c69AF53B2Fca0e1A3769E44D9a328696
