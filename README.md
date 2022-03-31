@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 
 ## Socials 
 
-- [Twitter](https://twitter.com/jrhwood)
-- [LinkedIn](https://www.linkedin.com/in/jrhwood/)
-- [HashNode](https://woodrock.hashnode.dev/)
+- Shiny things to [click](http://linktr.ee/jrhwood)
 
 ## Support
 
