@@ -20,8 +20,8 @@ If stinky oil from a boat leaks onto the fish, the fish nose machine can smell t
 
 ## FUN!
 
--[Random speaker](https://woodrock.github.io/random-hat/)
--[Doomerism](https://woodrock.github.io/doomerism/)
+- [Random speaker](https://woodrock.github.io/random-hat/)
+- [Doomerism](https://woodrock.github.io/doomerism/)
 
 ## Personal introduction
 
