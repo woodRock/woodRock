@@ -18,6 +18,11 @@ If stinky oil from a boat leaks onto the fish, the fish nose machine can smell t
 - [Bug Tracker](https://bugs-tracker.netlify.app/)
 - [Portfolio CMS](https://woodrock-dev.netlify.app/)
 
+## FUN!
+
+-[Random speaker](https://woodrock.github.io/random-hat/)
+-[Doomerism](https://woodrock.github.io/doomerism/)
+
 ## Personal introduction
 
 My goal is to leave the world a better place than I found it. I plan to bring that goal into reality by creating technology that improves the quality of life. These goals have motivated BE Honours (First Class) in Sofware Engineering. This objective has led me to a contract in Software Development at NIWA, collaborating with scientists and physicists to publish their research on our oceans and atmosphere to a global audience.  I am currently undertaking a PhD in Artificial Intelligence. Software is a medium to explore my scientific curiosity and contribute a meaningful change.
