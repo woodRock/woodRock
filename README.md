@@ -14,12 +14,6 @@ If stinky oil from a boat leaks onto the fish, the fish nose machine can smell t
 
 ## Demos
 - [Portfolio](https://woodrock.github.io/)
-- [Academic Scholar](https://academic-scholar.netlify.app/)
-- [Bug Tracker](https://bugs-tracker.netlify.app/)
-- [Portfolio CMS](https://woodrock-dev.netlify.app/)
-
-## FUN!
-
 - [Random speaker](https://woodrock.github.io/random-hat/)
 - [Doomerism](https://woodrock.github.io/doomerism/)
 
