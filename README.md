@@ -9,7 +9,7 @@ If stinky oil from a boat leaks onto the fish, the fish nose machine can smell t
 ## Shiny links
 
 1. [Proposal](https://woodrock.github.io/#/proposal)
-2. [Documentation](https://fishy-business.readthedocs.io/)
+2. [IMTS 2025 Paper](https://link.springer.com/article/10.1007/s44295-025-00066-3)
 3. [AJCAI 2022 Paper](https://woodrock.github.io/#/AJCAI)
 
 ## Demos
