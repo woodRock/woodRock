@@ -80,7 +80,7 @@ Based on my doctoral thesis, this project replaces traditional statistical metho
 I’m a **Research Assistant at Victoria University of Wellington**. My journey from **NIWA** software engineering to a PhD in AI is driven by a desire to use code as a scientific medium. 
 
 * 🔭 **Current Focus:** Self-supervised learning, Masked Spectra Modeling (MSM), and Evolutionary Computation.
-* 👾 **Fun Fact:** I once built a "Skyrim Wellbeing Manager" to track in-game mental health.
+* 👾 **Fun Fact:** I once built a "Skyrim Wellbeing Manager" to gamify tracking mental health.
 * 🎮 Currently playing: **Baldur's Gate 3**.
 
 ## 📫 Connect
