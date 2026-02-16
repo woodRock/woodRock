@@ -1,7 +1,7 @@
 # 📂 `whoami`
 
 # Jesse Wood 👋
-**Research Assistant @ Victoria University of Wellington | PhD in Artificial Intelligence**
+**Research Assistant @ Victoria University of Wellington | PhD Candidate in Artificial Intelligence**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=woodRock&theme=tokyonight&hide_border=true" alt="Jesse's GitHub Streak" />
