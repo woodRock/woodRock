@@ -68,11 +68,12 @@ Based on my doctoral thesis, this project replaces traditional statistical metho
 
 ## 🕹 Game Dev (PICO-8 & Itch.io)
 | Game | Platform | Link |
-| :--- | :--- | :--- |
-| **NZ Driving Simulator** | Web/Godot | [Play 🚗](https://woodrock.github.io/nz-driving-simulator) |
-| **Pico's Gate** | PICO-8 | [Play 🏰](https://wdrck.itch.io/picos-gate-v01) |
+| :--- | :--- | :--- 
 | **Bartender** | Itch.io | [Play 🍸](https://wdrck.itch.io/bartender) |
+| **Origins** | PICO-8 | [Play 🐍](https://wdrck.itch.io/origins)
+| **Pico's Gate** | PICO-8 | [Play 🏰](https://wdrck.itch.io/picos-gate-v01) |
 | **Pico Underlords** | PICO-8 | [Play ⚔️](https://wdrck.itch.io/underlords) |
+| **NZ Driving Simulator** | React | [Play 🚗](https://woodrock.github.io/nz-driving-simulator) |
 
 ---
 
