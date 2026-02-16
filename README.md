@@ -23,8 +23,11 @@ If stinky oil from a boat leaks onto the fish, the fish nose machine can smell t
 # Games
 
 - [NZ Driving Simulator](https://woodrock.github.io/nz-driving-simulator)
-- [Pixel's Gate](https://woodrock.github.io/pixels-gate)
-- [Jump Shoot](https://woodrock.github.io/jump-shoot)
+- [Bartender](https://wdrck.itch.io/bartender)
+- [Pelmanism](https://wdrck.itch.io/pelmanism)
+- [Pico Underlords](https://wdrck.itch.io/underlords)
+- [Origins](https://wdrck.itch.io/origins)
+- [Pico's Gate](https://wdrck.itch.io/picos-gate-v01)
 
 ## Personal introduction
 
