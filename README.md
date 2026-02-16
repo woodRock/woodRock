@@ -3,7 +3,9 @@
 # Jesse Wood 👋
 **Research Assistant @ Victoria University of Wellington | PhD in Artificial Intelligence**
 
-![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=woodRock&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woodRock&theme=tokyonight&hide_border=true" alt="Jesse's GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/woodRock?label=Followers&style=for-the-badge&color=238636&logo=github" />
@@ -15,15 +17,15 @@
 ---
 
 ## 🔬 Featured Research: [fishy-business](https://github.com/woodrock/fishy-business)
-> **Transforming Marine Science with Deep Learning & REIMS**
+> **Revolutionizing Marine Biomass Analysis with Deep Learning & REIMS**
 
-Based on my doctoral thesis, this project replaces traditional 1990s-era statistical methods (OPLS-DA) with **Transformer-based architectures** to analyze Rapid Evaporative Ionization Mass Spectrometry (REIMS) data.
+Based on my doctoral thesis, this project replaces traditional statistical methods (OPLS-DA) with **Transformer-based architectures** to analyze Rapid Evaporative Ionization Mass Spectrometry (REIMS) data for the seafood industry.
 
-### 🚀 Performance Benchmarks
+### 🚀 Research Breakthroughs
 * **Gone Phishing (MoE Transformer):** Achieved **100% accuracy** in Species Identification (Hoki vs. Mackerel).
 * **Autobots (Multi-scale Ensemble):** **74.13% accuracy** in Body Part Classification—crushing the 51.17% statistical baseline.
-* **SpectroSim:** A self-supervised contrastive learning framework (think SimCLR for chemistry) that enables **Batch Traceability** without physical tags.
-* **XAI Integration:** Utilizing **LIME** and **Grad-CAM** to map model decisions back to specific $m/z$ chemical peaks (e.g., $m/z$ 794.0990).
+* **SpectroSim:** A self-supervised contrastive learning framework (SimCLR for chemistry) enabling **Batch Traceability** without physical tags.
+* **Explainable AI (XAI):** Utilizing **LIME** and **Grad-CAM** to map model decisions back to specific $m/z$ chemical peaks (e.g., $m/z$ 794.0990).
 
 ---
 
@@ -48,8 +50,10 @@ Based on my doctoral thesis, this project replaces traditional 1990s-era statist
 | :--- | :--- | :--- |
 | **PhD Thesis** | AI for Marine Biomass | [Research Proposal 📝](https://woodrock.github.io/#/proposal) |
 | **IMTS 2025** | Electronic Nose Tech | [Springer Paper 📄](https://link.springer.com/article/10.1007/s44295-025-00066-3) |
-| **AJCAI 2022** | Machine Learning | [View Paper 📄](https://woodrock.github.io/#/AJCAI) |
+| **AJCAI 2022** | Machine Learning | [View Paper 📄](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_36) |
 | **Ionic Scholar** | Academic Tooling | [Live Demo 🚀](https://ionic-scholar.netlify.app/) |
+| **Skyrim Wellbeing** | Mental Health App | [Live Demo 🚀](https://woodrock.github.io/moody-bitch/dashboard) |
+| **Doomerism** | Web Project | [Live Demo 🌑](https://woodrock.github.io/doomerism/) |
 
 ---
 
