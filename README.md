@@ -1,6 +1,6 @@
 <div align="center">
 
-https://github.com/user-attachments/assets/d114be06-19db-4b18-9e3e-42bfc6dc4377
+![profile](https://github.com/user-attachments/assets/7e074df0-a0c2-494d-b569-75714c1d7194)
 
 # 📂 `whoami` — Jesse Wood 👋
 **Research Assistant @ Victoria University of Wellington | PhD Candidate in Artificial Intelligence**
